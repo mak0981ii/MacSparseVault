@@ -17,5 +17,5 @@ A lightweight open-source utility that creates **clickable Terminal shortcuts** 
 ## 🧩 Installation
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/SecureWork.git
+   git clone https://github.com/mak0981ii/SecureWork.git
    cd SecureWork
